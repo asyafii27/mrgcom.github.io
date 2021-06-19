@@ -1,4 +1,4 @@
-Desa	Pinggiran	Kota
+A   B   C
 64	85	72.0
 65	92	86.0
 68	88	76.0
